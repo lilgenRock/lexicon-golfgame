@@ -1,0 +1,14 @@
+C:\Users\deltagare\source\repos\Golf\Golf\bin\Debug\Golf.exe.config
+C:\Users\deltagare\source\repos\Golf\Golf\bin\Debug\Golf.exe
+C:\Users\deltagare\source\repos\Golf\Golf\bin\Debug\Golf.pdb
+C:\Users\deltagare\source\repos\Golf\Golf\obj\Debug\Golf.csprojResolveAssemblyReference.cache
+C:\Users\deltagare\source\repos\Golf\Golf\obj\Debug\Golf.csproj.CoreCompileInputs.cache
+C:\Users\deltagare\source\repos\Golf\Golf\obj\Debug\Golf.exe
+C:\Users\deltagare\source\repos\Golf\Golf\obj\Debug\Golf.pdb
+F:\projekt\c#\Golf\Golf\bin\Debug\Golf.exe.config
+F:\projekt\c#\Golf\Golf\bin\Debug\Golf.exe
+F:\projekt\c#\Golf\Golf\bin\Debug\Golf.pdb
+F:\projekt\c#\Golf\Golf\obj\Debug\Golf.csprojResolveAssemblyReference.cache
+F:\projekt\c#\Golf\Golf\obj\Debug\Golf.csproj.CoreCompileInputs.cache
+F:\projekt\c#\Golf\Golf\obj\Debug\Golf.exe
+F:\projekt\c#\Golf\Golf\obj\Debug\Golf.pdb
