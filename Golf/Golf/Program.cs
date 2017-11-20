@@ -10,6 +10,7 @@ namespace Golf
     {
         static void Main(string[] args)
         {
+            //git test
             Game game = new Game();
             Hole hole = new Hole();
             User user = new User();
